@@ -10,10 +10,6 @@ I'm a passionate software developer with a love for learning new technologies an
 - **DevOps:** Docker, Kubernetes, Jenkins
 - **Other:** Git, GitHub, VS Code, Linux
 
-## 📈 GitHub Stats
-![Elouaeramine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elouaeramine&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elouaeramine&layout=compact&theme=radical)
-
 ## 📫 How to Reach Me
 - **Email:** [elouaer.mohamedamine@gmail.com](mailto:elouaer.mohamedamine@gmail.com)
 - **LinkedIn:** [linkedin.com/in/elouaeramine](https://linkedin.com/in/elouaeramine)
