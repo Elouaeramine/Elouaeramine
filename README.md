@@ -12,7 +12,7 @@ I'm a passionate software developer with a love for learning new technologies an
 
 ## 📫 How to Reach Me
 - **Email:** [elouaer.mohamedamine@gmail.com](mailto:elouaer.mohamedamine@gmail.com)
-- **LinkedIn:** [linkedin.com/in/elouaeramine](https://linkedin.com/in/elouaeramine)
+- **LinkedIn:** [linkedin.com/in/amineelouaer](https://linkedin.com/in/amineelouaer)
 
 
 <!---
